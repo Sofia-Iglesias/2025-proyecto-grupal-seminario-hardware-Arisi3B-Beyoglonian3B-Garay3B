@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1wojoVyYnOdovQ7vRebLlbik66GW1dLpV9Y1MJXgsHVU/edit?tab=t.0
+
 # **`Nombre del Proyecto`**
 
 `Tecnología de los Sistemas de Información - Seminario Avanzado`  
@@ -5,8 +7,9 @@
 
 ## **`Integrante/s`**
 
-- `Nombre 1`  
-- `Nombre 2`
+- `Jeremías Beyolgonian`  
+- `Juan Ignacio Arisi`  
+- `Joaquín Garay`
 
 ## **`Objetivo`**
 
