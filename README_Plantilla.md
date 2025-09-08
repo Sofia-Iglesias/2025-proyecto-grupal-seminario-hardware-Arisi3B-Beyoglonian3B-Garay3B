@@ -1,6 +1,6 @@
 https://docs.google.com/document/d/1wojoVyYnOdovQ7vRebLlbik66GW1dLpV9Y1MJXgsHVU/edit?tab=t.0
 
-# **`Nombre del Proyecto`**
+# **`G-Force Concept 1`**
 
 `Tecnología de los Sistemas de Información - Seminario Avanzado`  
 `Ciclo Lectivo 2025`
@@ -13,11 +13,11 @@ https://docs.google.com/document/d/1wojoVyYnOdovQ7vRebLlbik66GW1dLpV9Y1MJXgsHVU/
 
 ## **`Objetivo`**
 
-`Breve descripción del propósito del proyecto. Completar una vez definido el proyecto.`
+`Está en el documento de google de arriba`
 
 ## **`Descripción del Proyecto`**
 
-`Explicar en qué consiste y qué se busca lograr. Completar una vez definido el proyecto.`
+`Está en el documento de google de arriba`
 
 ## **`Componentes`**
 
@@ -29,9 +29,7 @@ https://docs.google.com/document/d/1wojoVyYnOdovQ7vRebLlbik66GW1dLpV9Y1MJXgsHVU/
 
 ## **`Requisitos`**
 
-- `Software necesario`  
-- `Librerías`  
-- `Hardware adicional`
+- `nada`  
 
 `Completar una vez definido el proyecto.`
 
