@@ -21,21 +21,16 @@ https://docs.google.com/document/d/1wojoVyYnOdovQ7vRebLlbik66GW1dLpV9Y1MJXgsHVU/
 
 ## **`Componentes`**
 
-- `Componente 1`  
-- `Componente 2`  
-- `Componente 3`
-
-`Completar una vez definido el proyecto.`
+- `Está en el documento de google de arriba`
 
 ## **`Requisitos`**
 
-- `nada`  
+- `una compu no freezada que pueda correr el juego RaceRoom Expireience o F1 2002`  
 
-`Completar una vez definido el proyecto.`
 
 ## **`Etapas del proyecto`**
 ### Etapa 1:
-- `Acción 1`
+- `Investigar como usar SimHub con arduino`
 - `Acción 2`
 
 ### Etapa 2:
