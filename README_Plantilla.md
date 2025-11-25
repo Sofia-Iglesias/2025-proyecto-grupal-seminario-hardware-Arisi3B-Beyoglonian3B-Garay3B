@@ -1,4 +1,8 @@
+Link a la simulación:
 https://docs.google.com/document/d/1wojoVyYnOdovQ7vRebLlbik66GW1dLpV9Y1MJXgsHVU/edit?tab=t.0
+
+Guía de preguntas:
+https://docs.google.com/document/d/1pFNDV8tyIUBwvYDmY6_c1CgQKv0FRXbmwTVmR3SHqos/edit?tab=t.0
 
 # **`G-Force Concept 1`**
 
