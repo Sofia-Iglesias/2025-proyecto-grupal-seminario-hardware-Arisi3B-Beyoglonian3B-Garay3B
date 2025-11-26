@@ -1,5 +1,8 @@
-Link a la simulación:
+Link del documento:
 https://docs.google.com/document/d/1wojoVyYnOdovQ7vRebLlbik66GW1dLpV9Y1MJXgsHVU/edit?tab=t.0
+
+Link de la simmulación:
+https://www.tinkercad.com/things/6gKFhBvqh24/editel?returnTo=%2Fdashboard&sharecode=YsQIjZQCnkz8nF4WYRV-7NuMEZef8atcFXSs7y6Z-Vk
 
 Guía de preguntas:
 https://docs.google.com/document/d/1pFNDV8tyIUBwvYDmY6_c1CgQKv0FRXbmwTVmR3SHqos/edit?tab=t.0
