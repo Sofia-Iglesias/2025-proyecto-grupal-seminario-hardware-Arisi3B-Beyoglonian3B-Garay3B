@@ -38,7 +38,7 @@ https://docs.google.com/document/d/1pFNDV8tyIUBwvYDmY6_c1CgQKv0FRXbmwTVmR3SHqos/
 - `Acción 2`
 
 ### Etapa 2:
-- `Acción 1`
+- `Probar que funcione`
 - `Acción 2`
 
 ## **`Extras`**
