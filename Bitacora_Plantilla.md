@@ -5,8 +5,9 @@
 
 ## **`Integrante/s`**
 
-- `Nombre 1`  
-- `Nombre 2`
+- `joaquin garay robetta`  
+- `juan ignacio arisi
+- jeremias beyoglonian`
 
 
 ---
@@ -18,18 +19,18 @@
 
 **`Actividades Realizadas:`**
 
-- `Actividad 1`  
-- `Actividad 2`
+- `investigacion de servosmotores 1`  
+- `investigacionde sensores 2`
 
 **`Dificultades:`**
 
-- `Dificultad 1`  
-- `Dificultad 2`
+- `no saber nada 1`  
+- `usar map 2`
 
 **`Próximos Pasos:`**
 
-- `Próximo paso 1`  
-- `Próximo paso 2`
+- `investigar simhub 1`  
+- `conectar todo 2`
 
 
 ---
@@ -40,14 +41,14 @@
 **`Fecha:`**
 
 **`Actividades Realizadas:`**
-
-- `Actividad 1`  
-- `Actividad 2`
+`investigar simhub 1`  
+- `conectar todo`
+-
 
 **`Dificultades:`**
 
-- `Dificultad 1`  
-- `Dificultad 2`
+- `ningún profe sabía que era simhub1`  
+- `aprendimos como conectar un sensor de distancia`
 
 **`Próximos Pasos:`**
 
