@@ -42,15 +42,15 @@
 
 **`Actividades Realizadas:`**
 `investigar simhub 1`  
-- `conectar todo
+- `conectar todo`
 -
 
 **`Dificultades:`**
 
-- `ningun profe savia que era simhub1`  
+- `ningún profe sabía que era simhub1`  
 - `aprendimos como conectar un sensor de distancia`
 
 **`Próximos Pasos:`**
 
-- `Próximo pa 1`  
+- `Próximo paso 1`  
 - `Próximo paso 2`
